@@ -2,6 +2,15 @@
 
 https://github.com/elixir-lang/elixir/issues/15133
 
+## used elixir version
+
+```shell
+❯ elixir --version
+Erlang/OTP 28 [erts-16.2] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1]
+
+Elixir 1.19.5 (compiled with Erlang/OTP 28)
+```
+
 ## clean build
 ```shell
 mix deps --clean
